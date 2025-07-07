@@ -1,0 +1,5 @@
+{
+    "env":{
+        "MongoUrl" : "mongodb+srv://rohit:Rohit123%40@cluster0.ha5sq.mongodb.net/campus_connect?&w=majority&appName=Cluster0"
+    }
+}
