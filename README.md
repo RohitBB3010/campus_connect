@@ -52,6 +52,8 @@ PORT=5000
 
 ### 📱 Frontend Setup
 
+```bash
 cd frontend
 flutter pub get
 flutter run
+```
