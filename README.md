@@ -44,11 +44,12 @@ college-committee-platform/
 cd backend
 npm install
 npm start
+```
 
+##Make sure to setup your .env like this : 
 MONGO_URI=your-mongodb-uri
 JWT_SECRET=your-secret
 PORT=5000
-```
 
 ### 📱 Frontend Setup
 
